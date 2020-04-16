@@ -12,7 +12,7 @@
 git clone https://github.com/littlebai3618/bspider_ui.git
 
 # enter the project directory
-cd vue-admin-template
+cd bspider_ui
 
 # install dependency
 npm install
